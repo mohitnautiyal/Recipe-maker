@@ -7,4 +7,6 @@ truffle
 tripe
 butter
 eggs
+cammembert
+pinenuts
 flour
